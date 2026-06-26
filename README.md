@@ -312,10 +312,4 @@ This project demonstrates practical experience with:
 
 GitHub: https://github.com/agkavinraj
 
-LinkedIn: *(Add your LinkedIn profile here)*
-
----
-
-## License
-
-This project is licensed under the MIT License.
+LinkedIn: *(https://www.linkedin.com/in/agkavinraj/)*
