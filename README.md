@@ -252,33 +252,23 @@ Start Ollama before launching the backend.
 
 ### Dashboard
 
-```
 ![Dashboard](docs/images/dashboard.png)
-```
 
 ### Pods
 
-```
 ![Pods](docs/images/pods.png)
-```
 
 ### Pod Details
 
-```
 ![Pod Details](docs/images/podDetails.png)
-```
 
 ### Services
 
-```
 ![Services](docs/images/services.png)
-```
 
 ### Deployments
 
-```
 ![Deployments](docs/images/deployments.png)
-```
 
 ---
 
