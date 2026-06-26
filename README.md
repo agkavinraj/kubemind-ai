@@ -7,7 +7,7 @@ KubeMind AI is a full-stack Kubernetes monitoring platform that combines traditi
 ---
 ## Project Architecture
 
-![Architecture](docs/images/architecture.png)
+![Architecture](docs/images/kubemind-dashboard.png)
 
 ## Features
 
@@ -253,31 +253,31 @@ Start Ollama before launching the backend.
 ### Dashboard
 
 ```
-docs/images/dashboard.png
+![Dashboard](docs/images/dashboard.png)
 ```
 
 ### Pods
 
 ```
-docs/images/pods.png
+![Pods](docs/images/pods.png)
 ```
 
 ### Pod Details
 
 ```
-docs/images/podDetails.png
+![Pod Details](docs/images/podDetails.png)
 ```
 
 ### Services
 
 ```
-docs/images/services.png
+![Services](docs/images/services.png)
 ```
 
 ### Deployments
 
 ```
-docs/images/deployments.png
+![Deployments](docs/images/deployments.png)
 ```
 
 ---
